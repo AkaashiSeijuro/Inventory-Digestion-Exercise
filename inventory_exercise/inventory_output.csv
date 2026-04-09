@@ -1,0 +1,492 @@
+item_num,name,department,upc,internal_id,price,cost,quantity,properties,tags
+010986002813,Kenwood Pinot Noir 750ml Domestic,WINE,,biz_id_68471255-F46B-4BB5-9CCF-73F02A07F1AC,17.11,10.66,3,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+010986006026,Kenwood Sav Blanc 750ml Domestic,WINE,,biz_id_25FD7B87-B6FD-441B-92C7-EC06041F2F96,12.83,8.0,5,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+010986007634,Kenwood Chard 750ml Domestic,WINE,,biz_id_252CA053-F4EB-4CEE-B969-9F61BCD3CAEA,11.76,7.25,6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+012086312014,Macon Villages Joseph Drouhin,WINE,,biz_id_1238151E-6D3A-47A4-B1D0-ECA0FC751205,16.04,10.0,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+012354001466,Gentlemans Collection Red Blen 750ml Domestic,WINE,,biz_id_7DA5732A-DFFE-4251-AD62-A09B21E315B3,12.83,8.0,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+012354001848,Shiraz 19 Crimes,WINE,,biz_id_B797850E-0BC9-4CFC-8D64-2A450B95631B,10.69,6.66,5,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+015643241321,Dr. Hans VonMuller Riesling Au 750ml Domestic,WINE,,biz_id_721B43DD-50F7-4696-A5D5-374DECB443F4,13.9,9.0,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+015643422850,Rose with Grapefruit 750ml Import,WINE,,biz_id_A6F81C9E-CB0A-4EC8-B1C2-631BDBE63026,10.69,6.66,70,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+015643559792,Rose with Blood Orange 750ml Import,WINE,,biz_id_62DF569A-ED9C-4B38-ABC9-D3E32A072CA7,10.69,6.66,-4,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+015643566950,P Noir Oregon terrebonne,WINE,,biz_id_5481ECE4-96CF-49F6-97C2-1C9A7381C008,14.97,8.66,1,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+015643607554,Rose Little Sheep,WINE,,biz_id_3970D483-F824-4BB3-A641-29D2188F3506,11.76,7.33,0,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+01660433,Rose's Sweetened Lime Juice 12 oz Mixer,LIQUOR,,biz_id_413B83B7-1343-4241-B226-13305F53CB4E,4.27,3.0,6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+01660530,Rose's Grenadine 12 oz Mixer,LIQUOR,,biz_id_8FDA3F8A-3D90-4AF6-A72B-1A7BAE8C7770,4.27,3.0,11,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+018200209949,Platinum 12pk cans Bud Light,BEER,,biz_id_CA12E703-38D9-4987-B31D-7362948A0B4E,16.99,12.0,-30,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+018200250132,natty single natty single,BEER,,biz_id_4ECB3990-FE08-4C29-AF85-A19B051BEE5E,2.14,1.2,-238,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+018200260636,Bud Light Seltzer 25oz Bud Light,BEER,018200260612,,3.21,2.0,-9,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}","duplicate_sku,high_margin"
+018200260636,Bud Light Seltzer 25oz Bud Light,BEER,018200260629,,3.21,2.0,-9,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}","duplicate_sku,high_margin"
+025000058868,Pink Lemonade Minute Maid,Soda,025000058011,,2.03,1.1,-75,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+028200179043,L&M 50c OFF,TOBACCO,028200179050,,9.4,6.94,-27,"{""department"": ""TOBACCO"", ""vendor"": ""NONE"", ""description"": ""Tobacco""}","duplicate_sku,low_margin"
+028200179043,L&M 50c OFF,TOBACCO,028200179074,,9.4,6.94,-27,"{""department"": ""TOBACCO"", ""vendor"": ""NONE"", ""description"": ""Tobacco""}","duplicate_sku,low_margin"
+031259000046,Josh North Coast Cab Sav 750ml Domestic,WINE,,biz_id_5F4DACD7-414A-4231-A43D-02258340B29F,18.18,12.0,23,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259000763,Josh Family Cab Sav 750ml Domestic,WINE,,biz_id_996A38A3-E39B-4C7F-9CC1-AF947204C923,21.39,13.33,15,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259001043,Josh Cellars Rose 750ml Domestic,WINE,,biz_id_EB396D13-F697-4BEC-B233-210015204B78,14.16,10.0,-10,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",low_margin
+031259003030,Josh North Coast Chard,WINE,,biz_id_FE3E7C57-3EF1-4CF9-B70B-FFB6A08103C5,16.04,10.66,18,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+031259003726,Josh Prosecco Sparkling 750ml Import,WINE,,biz_id_80845E41-ACE6-466E-A1B6-3716D61C0D3D,13.9,8.66,55,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259004204,Cab 375ml Josh,WINE,,biz_id_7B38B11B-F139-4B63-A936-E90E6B1ECD3A,8.55,5.33,6,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+031259004211,Chard Josh,WINE,,biz_id_2EEDFE03-24EF-4BAD-A53E-EB247263C435,7.48,4.33,6,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+031259004327,Josh Bour Barrel Cab Sav,WINE,,biz_id_53DAF5D6-EAB5-41D4-B116-60524930D033,16.04,11.11,102,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+031259027159,Hob Nob Cab Sav 750ml Import,WINE,,biz_id_9E7D9C89-5690-42A3-85C9-130D0F037D77,10.69,6.66,8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259027166,Hob Nob Merlot 750ml Import,WINE,,biz_id_0EDFF77A-845C-45C5-BAE6-7DB720442495,10.69,6.66,16,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259027173,Pinot Noir HobNob,WINE,,biz_id_3675302B-0D2F-408A-BD5D-25D598A9D111,10.69,6.66,53,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+031259045306,Hob Nob Red Blend 750ml Import,WINE,,biz_id_433FA6F1-C921-4481-AD76-FFA325E277B6,10.69,6.66,5,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259046952,Josh Pinot Noir 750ml Domestic,WINE,,biz_id_E4479533-3383-4C22-81E3-645FFD47F057,17.11,10.66,21,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031259046976,Josh Cellar Sav Blanc 750ml Domestic,WINE,,biz_id_D1F850CA-59A5-4192-ADFB-1D1C1CDB0BF8,12.83,8.0,31,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+031439001641,Collins Cherries with Stems 16oz,MISC,,biz_id_275EFEEF-CC49-4603-9978-4690720849F4,7.48,5.0,-11,"{""department"": ""MISC"", ""vendor"": """", ""description"": ""Miscellaneous""}",high_margin
+040000424314,Snickers Candy,Soda,,biz_id_F70ED76D-030E-4A0B-A351-3973D3FE71AC,1.18,0.66,-149,"{""department"": ""Soda"", ""vendor"": """", ""description"": ""Soda""}",high_margin
+040063400027,Four Roses Single Barrel 750ml Whiskey,LIQUOR,,biz_id_800A57BF-676F-4B72-9CAD-AA82C42D35B5,45.77,34.0,6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+040063400317,Four Roses Small Batch 750ml Whiskey,LIQUOR,,biz_id_39E92C3F-F46D-4716-9B1D-5E08DAFDBC31,33.78,25.0,4,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+040063400409,Four Roses Bourdon 750ml Whiskey,LIQUOR,,biz_id_8655B24B-6729-4B69-9853-FB2EB64C34D2,21.79,16.0,7,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+040232502101,Mighty Squirrel Cloud Candy 4 x 16oz,BEER,,biz_id_E17ACDFB-76E2-4E26-BE87-3F973FEB37F0,14.97,10.2,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+040232502132,Mighty Squirel Mango Lassi 4 x 16oz,BEER,,biz_id_5B22204E-1553-481A-8419-EC5083260D7A,17.11,11.28,2,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+049331002307,Pinot Noir La Crema,WINE,,biz_id_0C40DB45-26AD-4928-89A3-D384422D8EBA,25.06,18.0,13,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",low_margin
+050037014501,Disaronno 750ml Disaronno,LIQUOR,,biz_id_2BFFEF40-75AD-4B44-B543-956C5BFD3452,32.69,26.0,11,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+050037014518,Disaronno 375ml Disaronna,LIQUOR,,biz_id_09E9890A-7174-4D75-8218-43988CE4259F,18.18,11.84,9,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+051497052683,Velvet Moon Mighty Sqi,BEER,,biz_id_08AC6ACC-59CD-492F-A9F6-3B373FE28FAD,14.11,9.33,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+051497123390,Guavaland Mighty Sqir,BEER,,biz_id_562080F5-F0B1-41BC-997D-1841AD16BB9B,19.61,14.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+051497123420,Mighty Squirrel Dear Bubba 4 x 16oz,BEER,,biz_id_C8DCE143-244F-487A-B9F6-9EF294067723,14.97,10.2,8,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+071990000486,Coors Light 12 x 12oz Can,BEER,,biz_id_CF3A0441-B980-41A5-B464-4A8B7FA578FF,14.81,10.9,18,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+071990095116,Blue Moon Belgian 6 x 12oz Glass,BEER,,biz_id_A011EF2D-6CBD-4A58-812B-BC62B8531D9E,10.89,7.8,-2,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+071990300050,Coors Light 6 x 12oz Glass,BEER,,biz_id_1A10056A-4747-44E6-A71A-B05F67711820,8.55,6.0,5,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",high_margin
+071990300302,Coors Light 30 x 12oz Can,BEER,,biz_id_E04D3DD7-0D1E-4FBF-82B4-08CF721E62C2,28.87,21.9,17,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+071990300654,Coors Light Single 24oz,BEER,,biz_id_2BD777CE-DAB4-4EA6-993D-101682DCE61B,3.21,2.0,9,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",high_margin
+071990300692,Coors Light 12 x 12oz Glass,BEER,,biz_id_463BBEA9-7F20-4213-8E5A-21392966418B,14.81,10.9,5,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+071990320003,Coors Light 6 x 16oz Can,BEER,,biz_id_91B36483-EA98-404D-ADFE-197655D77AD9,10.13,7.65,5,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+076622775305,Quorum Quorum,TOBACCO,,biz_id_919677C7-3C31-42D3-8B69-7AAB615B3559,4.01,2.4,13,"{""department"": ""TOBACCO"", ""vendor"": ""NONE"", ""description"": ""Tobacco""}",high_margin
+078250003287,Steel Reserve Single 24oz,BEER,,biz_id_01E96EC8-226F-4AC3-8BAD-FB4B5B0989BD,2.14,1.33,21,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",high_margin
+080244009236,Buffalo Trace Buffalo Trace,LIQUOR,,biz_id_DE4C7E47-8D99-4A73-9AB3-0A071DE6E48E,34.23,24.0,8,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+080432107263,Jameson Black Barrell Whiskey 750ml,LIQUOR,,biz_id_AC867544-E43A-45BC-ACD6-7FCAFA5D5FCA,40.32,31.0,0,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080432109755,Glenlivet Founders 750ml Scotch,LIQUOR,,biz_id_E9155DDF-7B23-4F75-ABE7-4AC7BE6479C6,43.59,32.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080432109922,Jameson Caskmates Stout Whiskey 750ml,LIQUOR,,biz_id_503D2211-38A4-44C8-82CB-7995DD880E76,37.05,29.0,5,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080432112199,Jameson Caskmates Whiskey 750ml,LIQUOR,,biz_id_4D4648EC-7E9C-4441-8372-504087083C74,37.05,29.0,8,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080432400395,Chivas Regal 12yr Chivas Regal,LIQUOR,,biz_id_4C2238AD-6376-418C-B559-4B5683139ECA,39.58,28.0,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+080432400487,Chivas Regal 18yr,LIQUOR,,biz_id_3E6D6AAA-3672-42AB-82FF-35DCB1D0A8B1,90.94,63.0,1,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+080432400630,Glenlivet 12 Years 750ml Scotch,LIQUOR,,biz_id_19838183-3AAB-434A-BBED-40E42E30D941,51.22,37.0,-7,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080432500125,Jameson Irish Whiskey 200ml,LIQUOR,,biz_id_D976B87C-0579-4CA5-AB7E-C5AE5B413DBC,11.76,8.0,29,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+080432500149,Jameson Irish Whiskey 375ml,LIQUOR,,biz_id_67A57EEC-4ABD-43CB-BFA6-FF0A04C109AF,20.32,13.0,19,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+080432500187,Jameson Irish Whiskey 1.75L,LIQUOR,,biz_id_DF12AD9D-69E5-4D5A-A703-293ED5BF8BAF,46.86,35.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080432586174,12yr redbreast Red breast,LIQUOR,,biz_id_CBFA4EA9-CF39-47CE-9DF2-15A4CAE81910,58.84,42.0,7,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+080480002831,Grey Goose Cherry Noir Vodka 750ml,LIQUOR,,biz_id_99BF6A76-88B8-4662-A319-728D8E4F0CB6,32.69,25.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080480005221,Dewars 15yr Scotch,LIQUOR,,biz_id_3E5AD910-FF95-4D57-ADBB-2177B272F6AD,42.79,27.99,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+080480172022,Cazadores Tequila Cazadores,LIQUOR,,biz_id_A4DFB924-1C9B-492B-9EC5-17DA70256DB7,27.24,19.99,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+080480230036,Dewars white Label Scotch 375ml,LIQUOR,,biz_id_DCAD497C-91E3-49D5-A666-567644EE79B9,16.04,11.11,-8,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+080480230050,Dewars White Label Scotch 200ml,LIQUOR,,biz_id_959A66F1-6C18-4C73-AA70-9B00CAEB42D1,9.62,6.0,16,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+080480280000,Grey Goose Vodka 1.75L,LIQUOR,,biz_id_1D7E94D3-8355-4727-8C64-38667CA605F3,65.39,50.0,7,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080480280024,Grey Goose Vodka 750ml,LIQUOR,,biz_id_1A4079E3-30DA-41D3-A5F9-E95ACF565149,32.69,25.0,46,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080480280031,Grey Goose Vodka Vodka 375ml,LIQUOR,,biz_id_DD0DCF61-F4A8-423C-AADA-EC24BDB99734,21.39,14.0,-29,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+080480280055,Grey Goose 50ml Vodka,LIQUOR,,biz_id_B9CC4AC9-0ED4-4A9F-A085-547D7FD51D69,4.27,2.7,-92,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+080660954080,24pk Corona 7oz Corona,BEER,,biz_id_461C448A-6F9E-48C2-9781-0DF59E7AC67C,25.07,19.0,-8,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+080660956800,Corona Extra 18 x 12oz,BEER,033544950029,,25.07,20.2,7,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+080660956954,Corona Extra 12 x 12oz Glass,BEER,080660956152,,18.08,13.72,8,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+080686012405,Basil Hayden's 750ml Whiskey,LIQUOR,,biz_id_F2819E4C-8840-453F-AEF4-5334CB534D7F,33.78,26.0,31,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080686016403,Knob Creek Small Batch 750ml Whiskey,LIQUOR,,biz_id_7FE8B60B-5C8A-4198-871E-C0CD2DDF085D,33.78,25.0,25,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080686813019,Laphoraig 10 Years 750ml Scotch,LIQUOR,,biz_id_D9705486-9722-42A7-A762-5A8874B9F3E9,54.49,40.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080686835325,Hornitos Plata 750ml Tequila,LIQUOR,,biz_id_C57F8E91-3BEF-4030-8B84-B0DD5DD55252,30.51,22.0,15,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+080686929451,Pinnacle 1.75L Vodka,LIQUOR,,biz_id_5BAAFEFA-B3AC-491F-BFEC-00CDA1B9CB9B,21.39,15.0,1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+080915112128,Galliano L'Autenico Liqueur 750ml Import,LIQUOR,,biz_id_E52EE814-70D8-4529-807C-E26C09F5A988,27.24,20.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+081308001326,Prosecco Cupcake,WINE,,biz_id_8CFE25FA-93FA-4DE7-831E-3AC3885D0F72,12.83,8.0,36,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+081308003566,Pinot Noir Chloe,WINE,,biz_id_BC2B5E6C-C776-4415-8E5A-B73CC2E99360,14.97,8.67,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+081308003733,Prosecco Chloe,WINE,,biz_id_3C4CDE53-A313-42FF-89D3-BC194BD0D49D,14.97,8.67,37,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+081584002154,Kendall Jackson Pinot Gris 750ml Domestic,WINE,,biz_id_0131A228-70DF-415A-B3FA-5C57BB240CE7,14.97,10.0,6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+081584013105,Kendall Jackson Chard 750ml Domestic,WINE,,biz_id_7152AB68-E676-419A-A33F-69DA59B3FB64,16.04,10.0,61,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+081584013174,Kendall Jackson Cab Sav 750ml Domestic,WINE,,biz_id_EF498332-679B-4EA6-9C8C-E6C18E2F9A75,21.39,13.33,11,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+081584131519,Kendall Jackson Pinot Noir 750ml Domestic,WINE,,biz_id_BD7E1A81-0D5F-4EEB-BF57-E0950BF6E818,21.39,13.33,10,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+081584131526,Kendall Jackson Merlot 750ml Domestic,WINE,,biz_id_2A782FE8-D8DD-4DCA-9BCE-BF34B228B1C7,21.39,13.33,8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+081753814755,Veuve Clicquot Veuve Clicquot,WINE,,biz_id_3C9C369A-9B6E-4278-B9D5-1FDACF7D9580,58.84,39.0,19,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+082000003960,Raspberry Smirnoff,LIQUOR,,biz_id_F063AE36-5A1A-4A57-B1BE-22B21C5EA048,15.25,10.99,8,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+082000192985,Jose Cuevo Gold 1.75L Tequila,LIQUOR,,biz_id_6E210F34-CE2E-4DFE-AC56-1A87D39A6484,32.69,25.0,13,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082000788164,BlueBerry 375ml Smirnoff,MISC,,biz_id_2ED6A0F5-3FCF-45F1-9E9E-8645E26B862B,9.62,6.0,4,"{""department"": ""MISC"", ""vendor"": ""NONE"", ""description"": ""Miscellaneous""}",high_margin
+082000788225,watermelon 375ml Smirnoff,LIQUOR,,biz_id_75877234-A22B-4CAD-8E45-0F4CA349BA32,9.62,6.0,-5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+082100738533,Dreaming Tree Crush Red 750ml Domestic,WINE,,biz_id_F854AD64-8CFC-4B90-9A39-74ED03D46996,16.04,10.0,8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+082184000335,Jack Daniel's Honey 750ml Whiskey,LIQUOR,,biz_id_C983ADEC-6A0B-476B-A0B2-AA6A44C53C84,29.42,22.0,17,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082184000342,Jack Daniels Honey 375ml Whiskey,LIQUOR,,biz_id_3C79D0ED-D954-4E86-B463-57865DE7338E,17.11,12.0,28,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+082184000359,Jack Daniels Honey 50ml Whiskey,LIQUOR,,biz_id_7994ADC8-0550-4C17-90B7-023354464BBB,3.2,2.0,82,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+082184000618,Jack Daniel's Honey 1.75L Whiskey,LIQUOR,,biz_id_81313574-63C8-43ED-8ED8-67A245391097,46.86,34.0,9,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082184000625,Jack Daniels Honey 200ml Whiskey,LIQUOR,,biz_id_22606328-1ECA-4018-8F8B-30B85583BF32,10.69,7.5,39,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+082184001219,Jack Daniel's Fire 1.75L Whiskey,LIQUOR,,biz_id_AEEDA65A-D748-4419-AE41-25A918B1EEC7,46.86,34.0,0,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082184001554,Jack Daniels Fire 200ml Whiskey,LIQUOR,,biz_id_C2782A29-C884-4F13-93D9-5880909948BF,10.69,7.5,28,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+082184087008,Jack Daniel's Single Barrel 750ml Whiskey,LIQUOR,,biz_id_C80EF64D-C5F3-4DAB-B4F6-A22F0FF72393,54.49,40.0,1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082184090428,Jack Daniel's 1.75L Whiskey,LIQUOR,,biz_id_0FC51DD3-7A3E-48A9-8967-0C82BA4E7C23,46.86,34.0,12,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082184090442,Jack dan 1lt Jack Daniels,LIQUOR,,biz_id_CB58F6E1-7D76-4EFC-B8C3-4C6BD0CB54E0,32.09,20.0,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+082184090466,Jack Daniel's 750ml Whiskey,LIQUOR,,biz_id_FBE7A1FB-4FED-4D5A-BEF2-C5B51879BEA5,29.42,22.0,3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+082184090503,Jack Daniels 375ml Whiskey,LIQUOR,,biz_id_6CCF1E78-C8BD-45C9-97F6-2F985FAFBE65,17.11,12.0,39,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+082184090527,Jack Daniels 200ml Whiskey,LIQUOR,,biz_id_4E060DF7-1D34-4415-AD16-EC66108A5C10,10.69,7.5,93,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+082544007240,Maggio Merlot 750ml Domestic,WINE,,biz_id_FC35E4AD-6C95-4D11-9D60-BC92223DA697,10.69,6.66,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+082928236310,Inver House Green 1.75L Whiskey,LIQUOR,,biz_id_B7E4C19D-1B68-400B-9A9C-EA4B2341D7D4,17.11,12.0,0,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+083085430016,Rosatello Rose 750ml Import,WINE,,biz_id_E7E6D71F-E3F1-4978-A258-6626D31D3484,11.76,8.0,-2,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+083085903022,Ruffino Chianti 750ml Import,WINE,,biz_id_0F3E015B-B52C-4D26-A429-76A9904CCAA0,10.69,6.66,-9,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+083085903046,Ruffino Chianti Superiore 750ml Import,WINE,,biz_id_E1D1D658-D8C3-4353-A928-687EE6686BCC,14.97,9.33,12,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+083085903084,Ruffino Riserva Ducale 750ml Import,WINE,,biz_id_60687B7E-5A4E-48CE-88E3-1C7E314BBDC4,27.81,15.66,22,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+083085903213,Ruffino Pinot Grigio 750ml Import,WINE,,biz_id_9AC152DB-AD57-4C15-8F67-4F2808CDA139,10.69,6.66,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+083085904081,Ruffino Prosecco Sparkling 750ml Import,WINE,,biz_id_132CBE53-F04C-4186-8C97-70A12905913F,16.04,10.67,60,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+083089660105,Jagermeifter Liqueur 50ml,LIQUOR,,biz_id_CB1A2EB0-F63F-495E-9697-3D4569667D8F,2.41,1.7,-39,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+083300034531,Chambord Liqueur 750ml Import,LIQUOR,,biz_id_98EF78A3-D2A9-41C7-B36A-01F7F3ECB855,32.69,24.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+083664868735,Sailor Jerry 1.75L Rum,LIQUOR,,biz_id_A1ED6F8F-35BE-4E6A-A716-43CA0B6AA619,37.05,27.0,-5,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+083664868919,Milagro Silver Tequila 750ml,LIQUOR,,biz_id_EF3C5E68-AF19-4FF7-BB23-1D43C1B26DC4,32.69,25.0,1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+083664868940,Milagro Reposado Tequila 750ml,LIQUOR,,biz_id_97895607-99AA-4190-9CA8-6F6D8260756A,35.96,27.0,0,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+083664869121,Sailor Jerry Rum 375ml,LIQUOR,,biz_id_949433EE-62C7-4A21-9040-B24E01B276F0,11.76,8.0,-35,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+083664869138,Sailor Jerry Rum 200ml,LIQUOR,,biz_id_1BD17CCD-6E47-4509-B62F-D5A8286CC844,6.41,4.5,-12,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+083664869619,Sailor Jerry 50ml Rum,LIQUOR,,biz_id_CFFD128B-AF31-41BA-8BD8-D12B8ADEF64D,1.07,0.66,-40,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+083664872565,Glenfiddich 21 Years 750ml Scotch,LIQUOR,,biz_id_CDADF626-FF97-4F95-BEB8-8F3970622FCC,185.29,140.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+083664990436,Hendrick's Gin 750ml,LIQUOR,,biz_id_D39DF46E-A78C-41A6-941C-B0AA082DB14F,43.59,34.0,0,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+083783228519,Hop Bullet Sierra Nevada,BEER,,biz_id_FBF5C5CD-EBED-403D-A29B-09B9B94BAB66,11.44,7.99,-2,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+083820104011,Guinness Draught 6pk 12oz Import,BEER,,biz_id_07DCD154-56AE-4FDD-A4FC-AA118F52F81B,10.69,7.17,-33,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+083820123609,Guinness Draught 4pk 15oz Import,BEER,,biz_id_CC41E264-52B4-4A5B-9663-005944C15CC7,8.55,5.33,-69,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+083820123685,Guinness Draught 8pk 12oz Import,BEER,,biz_id_04DBC4C5-B54D-4117-BC1B-DE9F23E0C945,16.04,10.66,-86,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+083820123937,Guinness Extra 6pk 12oz Import,BEER,,biz_id_89FDE068-BCED-40EE-BDB0-24164D0ECB53,10.69,7.17,-85,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+083820124699,Over the Moon GUINNESS,BEER,,biz_id_3D120064-36CB-43A8-8691-C06BB7B9B7A0,12.83,8.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+084279983431,Kinky Pink 750ml Liqueur,LIQUOR,,biz_id_8424DC27-DDCE-4C2D-9DCF-F89E4D15E68D,21.39,15.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+084279985978,Kinky Pink Liqueur 50ml,LIQUOR,,biz_id_225D2045-256C-4D87-AD1A-55DE29C6CF7B,1.07,0.66,-69,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+084279991528,Kinky Blue Liqueur 50ml,LIQUOR,,biz_id_9ABC5D8D-1957-4173-BF83-3E71904B3D71,1.07,0.66,-37,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+084279998558,Malbec 750ml Alma Mora,WINE,,biz_id_7F2B8046-A8F6-486F-B031-CD4BAAE528BD,11.76,7.0,8,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+084380360947,Egg Nog Pennsylvania,LIQUOR,,biz_id_85289B0E-65E7-4A0A-A4F4-0902ABDD3840,11.76,7.33,0,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+084704091328,Korbel Brut Sparkling 750ml Domestic,WINE,,biz_id_D2FEAC52-78F0-4E12-A5B6-F567933C84C2,14.97,10.3,-48,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+084704091472,Korbel Extra Dry Sparkling 750ml Domestic,WINE,,biz_id_DF020232-57EC-4A3A-9A49-9738F3E74A2C,14.97,10.3,-20,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000001820,White Merlot Gallo,WINE,,biz_id_2844E2E1-24C5-4CC9-A7B8-48E2E4DBFCC5,10.69,6.66,6,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+085000005064,Gallo Family Chard 1.5L Domestic,WINE,,biz_id_ECDA02AB-5150-4D66-A4A9-227FD251EC04,10.69,6.66,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000007846,Gallo Family Zinfandel 1.5L Domestic,WINE,,biz_id_204355E6-F404-4575-B2AA-4622CE91243E,10.69,6.66,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000012178,Da Vinci Chianti 750ml Import,WINE,,biz_id_EE8FEB2C-CD32-4DBE-9A3E-DDD06FEEBABC,12.83,8.66,-4,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000012307,Da Vinci Chianti Riserva 750ml Import,WINE,,biz_id_622A32AF-B203-4684-9DC3-3AD73CEE52EF,21.39,13.33,-20,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000014318,New Amsterdam Gin 750ml,LIQUOR,,biz_id_D89223BD-7CC1-4876-9CCC-EF4EA71FD737,16.04,10.0,10,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085000015261,Macmurray Pinot Noir 750ml Domestic,WINE,,biz_id_80918DDE-928C-409A-95BC-AA2DD680F4F7,18.18,12.67,10,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000016589,Da vinci Pinot Girgio 750ml Import,WINE,,biz_id_7D00CF2B-2608-4F72-B070-1CE0E24B4658,12.83,8.0,-1,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+085000017272,Silver 375ml Camarena,LIQUOR,,biz_id_C7C66F68-9160-471E-B230-AC50ABC024A9,12.84,8.89,8,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+085000019498,New Amsterdam 750ml Vodka,LIQUOR,,biz_id_EF1B57DD-82A9-4E38-A13F-D64DAD59A01D,16.34,12.0,2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+085000019511,New Amsterdam 1.75L Vodka,LIQUOR,,biz_id_0A3DA105-2CAA-4AA1-A5FB-8A5183396170,22.88,17.0,-9,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+085000020524,Gascon Colosal Red Blend 750ml Import,WINE,,biz_id_F2E7A1C8-E161-4FC4-81F6-BA566E5C79FB,14.97,9.33,-4,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000022573,Gallo Family Sweet Peach 750ml Domestic,WINE,,biz_id_1FE2CEF2-5729-4698-B285-D693FBDC807A,7.48,4.66,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000022986,Gallo Family Sweet Berry 750ml Domestic,WINE,,biz_id_E919FDCE-5ADD-495E-9E18-40653F377DB3,7.48,4.66,-3,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000023105,Prophecy Pinot Noir,WINE,,biz_id_377FBC1C-2CFE-43D8-BFC1-6DB000E8B6F7,11.76,7.33,8,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+085000024485,Porphecy Red Blend 750ml Domestic,WINE,,biz_id_8C6D0C0B-4FEA-4B7B-836E-EFD6603CC91A,11.76,7.33,11,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085000026274,Grapefruit High Noon,BEER,,biz_id_47C01A13-ED0F-4A1F-B256-EEA257BE918C,10.69,7.5,1,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+085000029251,Watermelon High Noon,BEER,,biz_id_CB0F94D3-3806-4D86-B518-1C64C65DBBF8,10.69,7.5,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+085000029268,Pineapple High Noon,BEER,,biz_id_C4A6CB1F-7E0B-4381-8CD2-5C8A41B5A1CA,10.69,7.5,2,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+085000029275,Black Cherry High Noon,BEER,,biz_id_5EB97B20-E275-4127-861C-EDDE1500AFE1,10.69,7.5,2,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+085000029626,Pink Whitney New Amsterdam,LIQUOR,,biz_id_B1A1ACA6-D4B5-4B17-B09A-94A9B99062FA,16.04,10.67,28,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+085000029862,H noon 12pk High Noon,BEER,,biz_id_35674D4C-C0C2-4B20-BD08-7EB1F96FA24D,30.51,22.5,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+085000248799,Brut 4pk Barefoot,WINE,,biz_id_8916B255-808E-4171-BA42-AD93C1615294,11.76,7.5,-2,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+08510527,Sparkling Fre,WINE,,biz_id_BA52F046-F0B0-4ED5-AE1D-6EF39EB648E0,9.62,6.0,9,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+085155000037,Chandon Blanc de Noirs Sparkli 750ml Domestic,WINE,,biz_id_0996D619-A6DB-4C34-A90D-253CC5BD43DC,21.39,13.33,-2,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+085156007509,Ketel One Citroen Vodka 750ml,LIQUOR,,biz_id_B3856C61-7400-4603-AED1-C9EE14D28D74,21.39,15.0,15,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085156122158,Ketel One 375ml Vodka,LIQUOR,,biz_id_558670C3-2F0F-4C61-8A1A-60448AFBA5B0,11.76,8.0,72,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085156475001,Ketel One Oranje Vodka 750ml,LIQUOR,,biz_id_9AD6439B-D985-4844-BCD1-FF2DA6562A71,21.39,15.0,14,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085156515417,Ketel One Vodka 750ml,LIQUOR,,biz_id_6127CCAA-9CA5-4649-8801-CC53822132B6,21.39,15.0,56,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085156675005,Ketel One Peach & Orange Vodka 750ml,LIQUOR,,biz_id_40A76077-287D-4BEC-BE34-B90288B83F2A,21.39,15.0,13,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085156775002,Ketel One Grapefruit Rose Vodka 750ml,LIQUOR,,biz_id_08149DD9-EECA-4180-99BB-7DED229A4DAB,21.39,15.0,22,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085156803682,Ketel One Vodka 1.75L,LIQUOR,,biz_id_60C203B5-B13C-4A42-BE4B-4D5C8C737380,32.69,25.0,26,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+085156875009,Ketel One Cucumber & Mint Vodka 750ml,LIQUOR,,biz_id_0C0D09BC-FD97-46A2-B016-D205CD0F7D7D,21.39,15.0,12,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+08516123,Cab Sauv Fre,WINE,,biz_id_858CC5B8-75A3-44D2-B6AA-245F5E982DA0,8.55,5.33,0,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+0852411007969,Pinot Noir Life Vine,WINE,852411007969,,16.04,10.67,29,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+085246139417,Maker's Mark 1.75L Whiskey,LIQUOR,,biz_id_2A50E878-6B70-4CB7-8351-A9400E5472AB,65.39,48.0,-6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+085246139431,Maker's Mark 750ml Whiskey,LIQUOR,,biz_id_726EDB04-0613-4426-AD59-C96CBD8987F1,32.69,25.0,-54,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+085246185001,Makers mark 375ml Makers mark,LIQUOR,,biz_id_D2BD8BAB-65BA-4876-A7CF-B301BC232D42,20.32,14.0,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+085246500101,Marker's 46 750ml Whiskey,LIQUOR,,biz_id_3FDBD834-6BC6-45A9-8D7C-AF42BD5FB282,49.04,36.0,1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+08569107,Gallo Extra Dry Vermouth 750ml Liqueur,LIQUOR,,biz_id_28C15721-1B3D-447C-936B-9817B1ADBB4C,7.48,5.0,-8,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+085976033931,Manischewitz Manischewitz,WINE,,biz_id_28461C89-E2BB-4043-A541-0DF9C6E61754,6.41,4.0,9,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+086003255067,The Prisoner The Pisoner,WINE,,biz_id_1250E2D6-9450-4E98-93A4-01E9726570AA,50.13,36.0,1,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",low_margin
+086003820753,RM Bourbon Cab RM,WINE,,biz_id_57AE67A2-2547-4D14-AFBF-DCCE7492EA31,10.69,6.13,1,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+086012102833,Charles Krug Chard 750ml Domestic,WINE,,biz_id_69F356C4-BED5-4135-AD47-59C9D38602D2,19.25,12.0,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+086012500455,Fortissimo 3lt Fortissimo,WINE,,biz_id_752FF849-2C7E-477E-BD55-081FAB3F0821,21.39,14.0,0,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+086767210029,Baileys 1.75ml Baileys 1.75ml,LIQUOR,,biz_id_692F9F33-07A3-4DD1-899B-46009D0CFE50,42.79,30.0,-13,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+086767210098,Irish Cream 375ml Baileys,LIQUOR,,biz_id_A064B0D2-AABA-4D13-926D-C6635A6CE348,16.04,11.1,12,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+086767220097,Sambvca 375ml Romona,LIQUOR,,biz_id_1172B4F6-518B-4818-B22E-E6B74A65EB86,17.11,12.0,6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+086767701367,Bailey's Minis 4pk 100ml Liqueur,LIQUOR,,biz_id_13595BFF-1965-4F32-8292-AA23216637E9,12.83,9.0,16,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+086785000039,Cavit Pinot Grigio 1.5L Import,WINE,,biz_id_BC15E47F-8A38-4642-A0D8-780BE10D5D98,13.07,10.0,34,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",low_margin
+086785000084,Cavit Pinot Grigio 750ml Import,WINE,,biz_id_E03B9FB5-17C8-47A4-B9E1-1E1B6914670A,8.55,5.0,-25,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+086785110738,Roscato Sweet Red 750ml Import,WINE,,biz_id_7CE4942F-1C0F-47F1-BCDF-8EB5210A135A,13.9,8.66,37,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+086785211190,Cavit Chard 1.5L Import,WINE,,biz_id_2F4621A3-003B-4341-9FF3-DACCD413075A,12.83,8.0,-6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+086785211503,Cavit Pinot Noir 1.5L Import,WINE,,biz_id_7B7E19A8-69F4-4426-BA36-EB97C8E673A9,12.83,8.0,-10,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+086785212081,Cavit Riesling 1.5L Import,WINE,,biz_id_41A0769B-08C6-485C-B971-5127CA1AAE9B,12.83,8.0,-4,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+086785750804,Cab Sav Callia,WINE,,biz_id_3FAB98CA-1077-4A5A-97CE-DEE2606C6E3D,9.62,5.33,7,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+086788888023,Pinot Noir Hahn,WINE,,biz_id_F93F4664-D03C-43C5-B70E-DD45F9C07D6D,14.97,10.67,9,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+087000004047,Bulleit 1.75ml Bulleit,LIQUOR,,biz_id_E4E1398B-63CC-4D01-BC58-9F46C947E71D,62.12,45.0,3,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+087000007253,Crown Royal 750ml Whiskey,LIQUOR,,biz_id_D401B04F-44EB-420F-B4C9-CB8F9F6427CB,32.69,25.0,0,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+08719902,Crown royal 50ml Crown royal,LIQUOR,,biz_id_5E19160E-180E-4290-845E-7E36D162004C,4.27,2.0,-1,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+087236565107,Cointreau 750ml Liqueur,LIQUOR,,biz_id_68EAFF45-E005-4DFB-AF48-B8B257E69EB7,38.51,27.0,17,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+087236565206,Cointreau 375ml Cointreau,LIQUOR,,biz_id_96F423A3-D31D-4894-88F1-F115E224CF52,23.53,16.29,1,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+087236565305,Cointreau 50ml Cointreau,LIQUOR,,biz_id_325FEC3A-869D-405E-A5C4-7F2ACC525B29,4.27,2.86,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+087236950019,Mount Gay Eclipse 1.75L Rum,LIQUOR,,biz_id_763D04EB-01F7-49A1-A0C1-5386DC51131C,38.14,28.0,-9,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+087236950033,Mount Gay Eclipse 750ml Rum,LIQUOR,,biz_id_AA411E35-2061-4614-A810-8C5C3E6B4608,21.79,16.0,5,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+08731603,Choco Liqu 50ml Godiva,LIQUOR,,biz_id_FE7D5818-E6D8-4559-8553-0CF021DFE8C9,4.27,2.78,6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+08732709,Seagrams VO 50ml Canadian Whiskey,LIQUOR,,biz_id_EFE75B42-67F2-437C-86B2-AA2BD9E38EF4,2.14,1.5,-21,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+087356442128,Clos du Bois Pinot Noir 750ml Domestic,WINE,,biz_id_6FE0ED72-1D9F-4BFA-877F-52B59F547D53,11.76,7.33,-6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+087356510445,Clos Du Bois Pinot Grigio 750ml Domestic,WINE,,biz_id_139555B1-7062-433B-A5C0-02F5D4596C9A,11.76,7.33,-2,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+08740407,Bulleit 1.75ml Bulleit,LIQUOR,,biz_id_1A602F93-3DD1-4AFA-BC57-1A5B1B3129D9,59.94,45.0,0,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+087512913257,Rodney Strong Chardonnay,WINE,,biz_id_BD2682F8-52BF-4D0D-B611-A842FE171580,14.97,9.33,3,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+087512929364,Knights Valley Rodney Strong,WINE,,biz_id_25530E82-9453-4F96-BBBA-90290E1C5601,27.81,18.0,2,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+087512929685,Alexander Valley Rodney Strong,WINE,,biz_id_9683339F-2FCF-42FB-A5C4-54E931622233,23.53,15.33,3,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+08755506,White Cho 50ml Godiva,LIQUOR,,biz_id_238E04F3-924F-4BC4-832D-0CB2CB08D799,4.27,2.69,-1,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+087647111672,Dalmore 12 Years 750ml Scotch,LIQUOR,,biz_id_6AFE6BCA-95CE-432B-8F3B-3DAD6594EF66,70.84,50.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+087692004172,Truly Lime 6 x 12oz,BEER,,biz_id_AACEEEBD-4526-4224-B16A-9C57CD88391B,10.69,7.17,36,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+087692006862,Truly Berry Variety Pack 12 x 12oz,BEER,,biz_id_CDCDE9C5-6AE9-4CCD-A48A-4AD9997D3013,17.75,12.0,34,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",high_margin
+087692008040,Truly Tropical Variety Pack 12 x 12oz,BEER,,biz_id_3B8F70EC-9B1A-417B-A025-3D99300A94DC,17.75,12.5,2,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",high_margin
+087692009511,Berry24oz Truly,BEER,,biz_id_8C8C3E6B-29E1-4F5B-ABBF-0F65248A4137,3.21,2.0,-6,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+087692009658,Truly Pineapple 6 x 12oz,BEER,,biz_id_85998FD7-A125-43EF-80CC-A939D923DE69,10.89,0.0,-1,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",low_margin
+087692009702,Pine 24oz Truly,BEER,,biz_id_E2963332-BFF8-4DAD-84F8-7733B796B2B9,3.21,2.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+087692009894,Truly Watermelon & Kiwi 6 x 12oz,BEER,,biz_id_A4A1129D-2E18-45BB-BA1B-080A871099A3,10.89,0.0,-1,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",low_margin
+087712202120,Predator Zinfandel 750ml Domestic,WINE,,biz_id_074597C1-E52E-4931-8DD9-160CED809B63,16.04,10.0,8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+088004021344,Eagle Rare 750ml Whiskey,LIQUOR,,biz_id_0E528944-3101-4B54-9064-EF1BA2933D87,35.96,26.0,5,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+088004023478,Dr. McGillicuddy Irish 750ml Whiskey,LIQUOR,,biz_id_E4978033-FCDE-4816-9486-1A20A885BA4C,21.79,16.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+088004028244,Sea Ice 375ml Vodka,LIQUOR,,biz_id_10A65A63-0A44-44AC-BC1B-C5624136FCA5,5.34,2.5,29,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+088076163164,Johnnie Walker Red Label Scotch 1.75L,LIQUOR,,biz_id_057EEDC8-B1D9-4D89-AD3C-10A034FEB246,36.37,25.0,2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+088076178243,Gold Label 750ml Johnnie Walker,LIQUOR,,biz_id_41A9CCD6-1665-4D4A-AB3F-890831D1667A,98.09,79.99,1,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+088076183728,Summer watermelon Ciroc,LIQUOR,,biz_id_9035EDC6-8E49-432A-A437-F793578E7FB0,32.09,22.0,9,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+088110011307,Johnnie Walker Black Label Scotch 750ml,LIQUOR,,biz_id_18C08ECF-FC8F-4096-BFBD-0E0ED4F0E32B,42.79,30.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+088110021306,Johnnie Walker Redlabel 750ml Scotch whiskey,LIQUOR,,biz_id_198D01F5-7D16-42E4-B0B5-60CC4B1C9518,27.81,19.99,3,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+088110140052,Lagavulin 16 Years 750ml Scotch,LIQUOR,,biz_id_7864D619-C474-449A-8E8B-1E0D7F042A62,82.83,60.0,-4,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+088110150501,Hennessy 50ml Cognac,LIQUOR,,biz_id_7947A16C-AE35-4CE8-AD45-EE045E3DBB17,4.27,3.0,63,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+088110150624,Cognac 375ml Hennessy,LIQUOR,,biz_id_F87930ED-FD89-4601-90BC-669F2A45CF0B,22.47,16.0,-5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+088110160050,Oban 14 Years 750ml Scotch,LIQUOR,,biz_id_76E5FAB5-F093-40B5-A115-DB3B9C9BF083,65.39,48.0,12,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+088110551056,Moet & Chandon Imperial Sparkl 750ml Import,WINE,,biz_id_43C2458D-4810-4868-A851-A45AF2A4F1FD,48.14,32.0,15,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+088110931032,Grand Marnier Liqueur,LIQUOR,,biz_id_2335D31A-62DD-4B17-A8AA-AD20B279220B,40.32,30.0,0,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+088320002089,The Palm Whispering,WINE,,biz_id_A42FF82C-EF35-488A-8E00-8D5318BBF991,17.11,11.0,53,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+088352119007,Coffee 375ml Arrow,LIQUOR,,biz_id_5D0ECCCB-C32C-4AA2-B76B-943D632D4FD6,7.48,4.33,22,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+088352119069,Triple Sec 375ml Arrow,LIQUOR,,biz_id_9CB9DDA2-D337-4791-8BB8-1912A8A1D958,7.48,4.33,16,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+088415780557,Simi Cab Sav Simi,WINE,,biz_id_51E53384-D2A6-4A1C-B9DE-8E6DB1E88D39,21.39,14.67,7,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+088474022407,Relax Riesling 750ml Import,WINE,,biz_id_D9C9375A-12F5-4C90-8BE2-A423DDCE60A9,11.76,8.0,32,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+088586007859,Intrinsic Cab Sav 750ml Domestic,WINE,,biz_id_D90C00F9-2944-47AA-8EDD-735E602F9D55,21.39,13.33,6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+088586602832,Chateau Ste Michelle Merlot 750ml Domestic,WINE,,biz_id_AC338240-3556-4EBA-8F7D-6017F619869C,16.04,10.0,-13,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+088586603846,St Michelle Chard,WINE,,biz_id_0B5336B0-74B3-4B2E-BBFB-FB3B80D40D77,12.83,8.0,-31,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+088600000057,Gordons Gin 50ml,LIQUOR,,biz_id_4CA10A66-05EB-43E3-8D30-709F6C6C3B4C,1.6,1.0,-146,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+08860032,Gordon's 1.75L Gin,LIQUOR,,biz_id_BB0CB8F2-BB6B-45E9-A0DD-7645D4E44939,21.39,14.0,36,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+08861031,Gordon's 1.75L Vodka,LIQUOR,,biz_id_545737CD-5D11-432E-B23D-5DF4D5BB91FF,22.46,12.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+08861633,Gordons Vodka 375ml Vodka,LIQUOR,,biz_id_BB1DAC10-B49C-4296-B83B-B8EF4FBB2CAA,7.48,5.0,-73,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+088692860232,Sterling Cab Sav 750ml Domestic,WINE,,biz_id_8165F9E9-BFA8-431E-8D9E-AF152C9B337B,11.76,8.0,-6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+088692862106,Sterling Pinot Noir 750ml Domestic,WINE,,biz_id_149C1336-DCE8-47EB-B51E-5ADDAE10BA6B,11.76,8.0,10,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+089121068823,J Lohr Chard 750ml Domestic,WINE,,biz_id_1ABAD5B2-468A-436A-9C9C-BFBE4E81D436,12.83,8.0,-56,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+089121288122,J Lohr Cab Sav 750ml Domestic,WINE,,biz_id_A7E318ED-1A88-43EC-8A6F-F632FE6B6ECD,18.18,13.0,56,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+089475501014,Cantina Zaccagnini Montepulciano,WINE,,biz_id_AA03A944-12ED-4A19-8A1B-3BB30E988B5D,17.11,11.85,36,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+089475501199,Cantina Zaccagnini Pinot Grigio,WINE,,biz_id_A972E97F-C43C-419C-9D03-B160BDA00B52,17.11,11.85,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+08950000,Tanqueray Gin 50ml,LIQUOR,,biz_id_F83B209A-1876-4431-8283-840B236470E2,1.87,1.0,658,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089540122694,Kahlua Liqueur 1.5L Import,WINE,,biz_id_26B10CFD-360F-48B3-8489-7F955DEDC104,42.5,30.0,6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",low_margin
+089540122717,Kahlua Liqueur 750ml Import,LIQUOR,,biz_id_90197595-C63F-49DD-88E7-3F1AAFEB94C8,24.6,17.0,11,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089540122731,Rum & Coffee Kahlua,LIQUOR,,biz_id_53E6E99E-F488-461D-99E3-43A5442E4CEE,9.62,5.84,44,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+089540122748,Kahlua Liqueur 50ml,LIQUOR,,biz_id_B5B77DD6-1CB1-412F-A2EA-7D982445E422,2.41,1.6,33,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089540125220,Hiram Walker Peppermint 750ml Liqueur,LIQUOR,,biz_id_268A9A3D-028C-4CEE-A50C-52A57D98CAB7,13.9,9.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089540145631,Rum & Coffee 375ml Kahlua,LIQUOR,,biz_id_DDE6D9BF-B6BA-42DB-AF34-C7034EEA9B42,16.04,10.36,6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+089540448992,Malibu 750ml Liqueur,LIQUOR,,biz_id_458A7F44-47DA-4736-8302-56FE6E2ED57A,20.7,15.0,-27,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089540449036,Malibu Rum 375ml,LIQUOR,,biz_id_48F3FEF6-36E8-4E48-971A-AFEA63910919,11.76,8.0,-7,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089540449326,Malibu 1.75L Liqueur,LIQUOR,,biz_id_C0675C2F-37D7-4B45-BF5D-E00353AFDC29,31.6,23.0,-13,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089540453927,Malibu 50ml Liqueur,LIQUOR,,biz_id_64E5A4B2-DF14-46CD-B587-602C5132DD2A,1.87,1.2,39,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089540463131,Malibu Pineapple 750ml Liqueur,LIQUOR,,biz_id_0472B669-169F-4D45-A259-8C8E439D3BF6,20.7,15.0,-5,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552100116,Rubinoff 1.75L Vodka,LIQUOR,,biz_id_A51C91B0-A6C6-40B8-B508-B146C37C0F89,14.16,10.0,62,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552100130,Rubinoff 1L Vodka,LIQUOR,,biz_id_D9137F57-E83E-4E62-AA71-BCDC3026BA26,9.8,7.0,55,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552100147,Rubinoff 375ml Vodka,LIQUOR,,biz_id_863943F6-BBAC-432A-A10A-61E2B4021228,4.91,3.5,-103,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552100154,Rubinoff 200ml Vodka,LIQUOR,,biz_id_30204BAF-FEC0-45C0-977A-8B31591974F1,2.94,1.5,-158,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+089552100246,Rubinoff Raspberry Vodka,LIQUOR,,biz_id_E9CC9CD1-7013-4337-86FD-42DE754A1EC8,14.16,10.0,-10,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552100635,Rubinoff Pink Lemonade 1.75L Vodka,LIQUOR,,biz_id_BE9F58A4-95EE-43E7-BA64-9E3707B561C9,14.16,10.0,-8,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552110108,Rubinoff Blue Raspberry Vodka,LIQUOR,,biz_id_38723F9D-4469-46E2-A95C-097655782551,14.16,10.0,89,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089552921650,Rubinoff Watermelon 1.75L Vodka,LIQUOR,089552100536,,14.16,10.0,-56,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+089819501458,Gabbiano Chianti 750ml Import,WINE,,biz_id_3DF7C1AA-8E34-4644-BF90-9D113E5F46BB,7.48,4.0,-19,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+089819542987,Chateau St Jean Pinot Noir 750ml Domestic,WINE,,biz_id_B0EE8660-0654-4F3D-8582-ECD0402D9544,13.9,9.33,-3,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+089819723560,Sav Block 19 Crimes,WINE,,biz_id_AF159C68-323A-40B3-80E7-A5B30953ECCC,10.69,6.66,10,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+089819796885,Chateau St Jean Merlot 750ml Domestic,WINE,,biz_id_0E9CE437-0B6C-422F-BB44-E4DAA46399AD,13.9,8.0,-2,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+096749000067,Elijah Craig Small Batch,LIQUOR,,biz_id_9526CF5D-BF95-40F1-8DD3-5F32F53D2FBC,35.96,25.99,9,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+096749021147,Evan william 1.75 Bourbon,LIQUOR,,biz_id_7AF9476D-3981-4557-B286-B6FC8C0BAA4E,24.6,16.0,-6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+096749031559,Larceny 750ml Larceny,LIQUOR,,biz_id_BAF9E68A-F337-49E5-B86D-3C97C044127B,28.88,20.0,3,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+4820163121710,Vodka Khor,LIQUOR,,biz_id_B7508F75-56E9-4177-97EB-D8A3DDC38F7F,1.87,1.0,92,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+5600312192049,Paxis Red Blend 750ml Import,WINE,,biz_id_9746E0AF-A399-44B6-9F1A-FA8B74D2F6F6,10.69,6.66,-1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+5600312192278,Paxis Rose,WINE,,biz_id_DD48903D-5DFD-40F0-9D76-547B41413B30,10.69,6.66,8,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+601083370150,Chateau Cabredon Bordeaux 750ml Import,WINE,,biz_id_8CB0DD12-F2C4-4FEB-A0E2-6D2C0C801A76,12.83,8.0,-4,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+606813009072,Ipswich ale Ipswich ale,BEER,,biz_id_56EC2AEC-40A7-4DAE-A2D7-C09D9919C1ED,11.76,8.0,3,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+616003945219,Margarita Mix Zing Zang,Soda,,biz_id_8EBE41B8-C08D-4A0C-84BE-8072781C153B,6.41,3.0,34,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+616806910124,Green Rabbit howler brew,BEER,,biz_id_EEFAADF5-7E1A-49F3-B417-782C7BF47620,16.04,11.2,47,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+617768111109,Svedka 1LT Import Vodka,LIQUOR,,biz_id_3FB91842-4EB8-4B02-8CAC-56A163554E9B,17.11,12.0,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+635985260660,White Claw Raspberry 6 x 12oz,BEER,,biz_id_1F2D6F77-3D4E-4E24-8575-AC9B24EF8BE4,10.69,7.17,0,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",high_margin
+635985548904,White Claw Variety 12 x 12oz,BEER,,biz_id_C71F4D99-DCE8-4886-BA1D-91823427DE1A,18.08,13.0,33,"{""department"": ""BEER"", ""vendor"": ""9787772213"", ""description"": ""Beer""}",low_margin
+635985800064,Variety No2 White Claw,BEER,,biz_id_741F8842-4918-4644-8BF8-45FD1B946D37,18.08,13.0,98,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+636251742040,Stone Delicious IPA 12 x 12oz C,BEER,,biz_id_3569BC60-48A8-46EF-A9B5-B81749763C46,21.35,0.0,-1,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",low_margin
+637704071137,Nugget Nectar Troges,BEER,,biz_id_05953756-CE26-49CC-B11F-66A10F6DC606,14.97,9.8,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+641076983004,Pipeworks Pineapple Guppy 4 x 16oz,BEER,,biz_id_B85B4448-3B6B-49AC-9EF5-E0267394F93F,10.69,6.2,5,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+642495544593,Colle Secco Montepulciano 750ml Import,WINE,,biz_id_87A99167-713D-4CD4-8682-22EC36864CD0,14.97,8.66,-5,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+644216252503,Female Lead Night Shift,BEER,,biz_id_0BC7F2F5-EF1F-4965-82CD-A71B201317E5,18.18,12.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+644216259601,NSB Santilli 12 x 12oz,BEER,,biz_id_12A28CC9-DB5B-42D7-A6AC-35F800FD4B2D,19.89,14.0,19,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+644216260904,NSB Fluffinity 4 x 16oz,BEER,,biz_id_77C0E41A-D366-45E8-B753-598B51875720,16.25,10.0,-1,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+644216262304,Owl vs unicorn Night shift,BEER,,biz_id_ACB61FC2-D0C0-47D9-8A27-39E2368134DA,17.11,12.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+644216264803,How r Ya Night Shift,BEER,,biz_id_F5EB2C34-58A9-4697-AB9B-B41A1993ED75,16.04,11.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+649188900360,Grand Marnier Liqueur 50ml,LIQUOR,,biz_id_FC2D75D0-4133-41D9-9304-F05D54691DC1,4.27,3.0,-33,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+649188900469,Cognac & Orange 375ml Grand Marnier,LIQUOR,,biz_id_8DA213D1-00CA-4C16-8EFA-DB49690AD668,23.54,16.29,8,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+649188900476,Grand Marnier 750ml Liqueur,LIQUOR,,biz_id_F0BC796F-3844-4518-A52B-E5835098B031,39.58,25.0,-6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+652935100012,Michael David 7 Dead Zinfandel 750ml Domestic,WINE,,biz_id_AD4BD656-5B34-452F-AD1A-9B1B6559899B,19.25,11.33,34,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+652935100067,EarthQuake Cab EarthQuake,WINE,,biz_id_D32C0DF8-FA73-4F52-8812-80FDAA5932BC,26.74,16.0,6,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+652935100333,Michael David Freaksho Cab Sav 750ml Domestic,WINE,,biz_id_1DD4D38E-1FDA-4819-A6A6-70A6F948BDD1,21.39,13.33,28,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+652935100449,Red Blend M David,WINE,,biz_id_78E0319B-A3B5-411E-AD7B-998B6C34EAB4,13.9,8.67,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+662425078554,Jack's Abby House Lager 6 x 16oz,BEER,,biz_id_B156DD2E-E4CB-42A7-82C4-F31D7D011D8A,12.08,7.5,8,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+662425083916,Jack's Abby Seasonal 6pk 16oz Craft,BEER,,biz_id_7064D401-D0DE-4654-AAAE-DDFEB3992D78,11.76,8.0,-66,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+662425087907,Jack's Abby Hoponius Union 6pk 16oz Craft,BEER,,biz_id_1DA9B2CC-7D3C-4400-A521-4B3E44ED98A3,11.76,8.0,-62,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+662425087945,Jack's Abby Blood Orange 6pk 16oz Craft,BEER,,biz_id_9977CA23-0786-4219-90CA-C4D12E85AEB9,11.76,8.0,-42,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+662425097814,Springdale IPA Springdale,BEER,,biz_id_1EE37A1F-6477-49CB-9BDB-4D10FDBF9F93,13.9,9.0,-12,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+662425097890,Galaxy Brau Jacks Abby,BEER,,biz_id_8DA255EC-5152-4E8E-AECE-E25CA3E1AD49,11.97,8.33,2,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+672762000149,Mi Amore Red 750 Import,WINE,,biz_id_C8D7C8DE-CA35-4845-94FC-1F1640A70A1B,10.69,6.66,24,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+680203019353,Willett Bourbon Willett,LIQUOR,,biz_id_D2FCCB0E-51D5-44E1-B2E4-A2F55B140349,53.49,34.0,4,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+686557533224,Hand sanitizer Fabrizia,Soda,,biz_id_6C2FDD16-94D0-48AB-A027-99AB50B5AD2E,6.41,3.0,13,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+689352009611,Kim Crawford Sav Blanc 750ml Import,WINE,,biz_id_3CD9630F-9CFC-478A-85BD-3AD4477AEB0A,17.11,12.0,72,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+690304177555,Sensi Prosecco 750ml Import,WINE,,biz_id_50AEB8B1-26EB-4971-BE24-5A22B6149C79,23.53,16.0,2,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+690304177562,Pinot Noir Rose Sensi,WINE,,biz_id_4B4A9C80-5168-4E38-8C36-0D663345E1D3,23.53,16.0,3,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+696859292309,NSB Whirlpool 4 x 16oz,BEER,,biz_id_C8FB8C5A-3574-4B71-A975-5B386E7E9068,14.11,9.67,74,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+696859292392,NSB Santilli 4 x 16oz,BEER,,biz_id_61FBAFBD-2E2E-40AF-ABD6-CE525041F4B3,14.11,9.67,51,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+696859292422,NSB The 87 4 x 16oz,BEER,,biz_id_E5275C8D-F054-4939-BFED-DDCF68582AE5,16.56,12.0,19,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",low_margin
+696859292514,Pfaffnheck Night shift,BEER,,biz_id_CB1DFCB9-77CE-4E30-89E3-E34C2E697B9A,14.11,9.53,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+696859292613,bennington Night Shift,BEER,,biz_id_A0C07354-8048-423E-87E6-9A8AD5C0681D,16.04,10.9,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+6976915164486,Basso Chianti Poggio Basso,WINE,,biz_id_FD849172-168C-40C4-BC49-A30B46B86B38,10.69,6.66,1,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+702685043180,Chateau Clairac Cotes de Borde 750ml Import,WINE,,biz_id_D63CA26C-7497-40C3-AA83-9454CF7638B2,12.83,8.0,-5,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+705105321462,Maine Beer Zoe Single 16oz Craft,BEER,,biz_id_F750FFDB-E2B1-480E-8381-FC19DE45289B,7.44,5.0,-20,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+705105321660,Lunch Main Beer,BEER,,biz_id_35F5D375-5012-41E7-861D-84EB55C0C8D5,8.56,5.0,-15,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+706954911903,Fall Main Beer Company,BEER,,biz_id_C7F96DDA-10F3-4087-8F22-4BFF83385497,7.49,5.0,1,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+717888510025,Hess Select Cab Sav 750ml Domestic,WINE,,biz_id_46C8F34F-503A-498A-A203-C880067750E1,18.18,12.0,44,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+721059001298,Espolon Anejo,LIQUOR,,biz_id_BF66065E-D9AE-4A78-AD75-0B3992BE22D1,42.79,30.0,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+721059003063,Campari 50ml Campari,LIQUOR,,biz_id_8BC7A4E1-392A-4C9A-8397-2BC26EB8D408,3.2,1.5,21,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+721059047500,Campari 750ml Campari,LIQUOR,,biz_id_82E81657-B0F3-43F0-9F74-86A0DA1A7DBD,32.69,24.0,10,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+721059707503,Espolon Blanco 750ml Tequila,LIQUOR,,biz_id_E6250408-0AB4-4D3B-B894-F3781355CE67,27.24,20.0,2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721059707510,Espolon Reposado 750ml Tequila,LIQUOR,,biz_id_F5D4F806-31B7-49D7-9A25-7B6A4E66A79E,27.24,20.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721059980500,Frangelico 50ml Frangelico,LIQUOR,,biz_id_60EF55DD-AF00-493B-A2C0-DF624EA95288,4.27,2.79,6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+721094199035,Goslings Black Seal 1.75L Rum,LIQUOR,,biz_id_A69C4F4A-FA0C-4A59-A66B-03C187370E99,34.87,25.0,-11,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721094199059,Goslings Black Seal 750ml Rum,LIQUOR,,biz_id_1803362C-6DB4-40B1-BD80-E849E056E6C0,22.88,17.0,-10,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721094199141,Goslings 151 Black Seal 1L Rum,LIQUOR,,biz_id_2EE650AE-F63B-4099-BFB7-ACE017F075DB,23.97,18.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721094199455,Gosling Gold 750ml Rum,LIQUOR,,biz_id_8240119B-4561-46AC-AE4E-64C24407FACB,21.79,16.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721094199707,Goslings Ginger Beer 6pk 12oz Domestic,MISC,,biz_id_E7B0F31A-4AEC-482A-8A2C-14A7CEAF718B,7.48,4.66,-42,"{""department"": ""MISC"", ""vendor"": """", ""description"": ""Miscellaneous""}",high_margin
+721094199752,Goslings Deit Ginger Beer 6pk 12oz Domestic,MISC,,biz_id_CD440C50-88BE-4078-8601-4DECCB78252C,7.48,4.66,-8,"{""department"": ""MISC"", ""vendor"": """", ""description"": ""Miscellaneous""}",high_margin
+721298260913,Chateau Bonnet Rose 750ml Domestic,WINE,,biz_id_D9D8BD7B-55FB-412D-9605-AD39577CAAF5,16.04,11.0,-6,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+721733000029,Patron Silver Tequila 750ml,LIQUOR,,biz_id_5BA8B611-3157-472C-A76E-D0BADF42765E,54.49,40.0,-13,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+721733000234,Patron Silver 50Ml Tequila,LIQUOR,,biz_id_6AB67FC7-642E-4705-8CC2-235CC753FA8B,6.41,4.0,62,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+721733000944,Patron silver 375ml Patron,LIQUOR,,biz_id_F8E66CD3-DED6-4B6A-9E40-8F0E51990638,27.81,18.99,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+723830400467,Willettized Lagunitas,BEER,,biz_id_20C16A4E-D1EF-4A8F-A058-E344F4468CC4,14.11,10.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+728817199129,Gekkeikan Sake 750ml Liqueur,LIQUOR,,biz_id_4C5AC411-056C-45BB-BC16-8D24C2F7FAF6,7.48,5.0,-17,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+733952997103,Justin Cab Sav 750ml Domestic,WINE,,biz_id_BDB0C100-56E7-430C-9D96-35128EE72885,26.74,17.0,22,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+736040537113,Banhez Mezcal Mezcal,LIQUOR,,biz_id_1ADF4EDB-D9BF-4708-A4B9-7717BE569E11,32.09,20.0,11,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+747301003278,Kentucky Bourbon Barrel 4pk 12oz Craft,BEER,,biz_id_7C522D28-368C-4DC0-B3AE-4E67EC38EB21,13.9,8.0,2,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+752830253810,NSB Craigerator 4 x 16oz,BEER,,biz_id_901A565C-2627-4285-9645-04B8546E5444,17.11,11.67,16,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+752830259713,NSB Briar Weisse 4 x 16oz,BEER,,biz_id_2800A4CF-D29D-4FD0-8DE6-A55F8A0D6499,19.25,13.0,4,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+752830262010,NSB One Hop This Time: Vic 4 x 16oz,BEER,,biz_id_826F8F8D-B621-47B0-A93B-3EC5BCA280F9,14.11,9.66,28,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+758475642569,CBD Cider Otto,BEER,,biz_id_4C36430A-54E8-4CE7-A3A6-F965BA8D3A7A,5.34,3.55,5,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+764793208301,Casal Garcia White 750ml Import,WINE,,biz_id_A4D0DD0B-1E6E-47BF-9F97-3C693109CB1D,7.48,4.0,-8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+767707002194,Kerrygold Irish Creme Liqueur 750ml Import,LIQUOR,,biz_id_B8447B6B-393E-49B2-AEC0-EDDAA98A1CBE,27.24,20.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+769611500384,Sonoma Cutrer PINOT NOIR,WINE,,biz_id_0E35F8C3-4E43-43F9-B40F-F0E7447D0180,32.09,22.0,3,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+7790314010200,Malbec 750ml Dabra,WINE,,biz_id_04DC443E-CAE1-44D3-A67A-75628BCC3032,10.69,6.66,7,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+7798301230471,Picabuey Malbec 750ml Import,WINE,,biz_id_026BCDAB-677F-4F07-B930-AD66DAF8E797,13.9,8.66,8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+786150000571,Stella Artois 24oz,BEER,,biz_id_BF393773-2FAE-487B-A98A-28DC538B89FD,3.21,2.3,-24,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+793573797940,Whistlepig rye 10yr,LIQUOR,858964006794,,81.74,62.0,6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+794504868821,Maine Beer Mo Single 16oz Craft,BEER,,biz_id_2BB95D86-EC04-4FE2-8DB4-33772BB6FC11,7.44,5.0,-2,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+794504869125,Maine Beer Another One Single 16oz Craft,BEER,,biz_id_476EC29A-0A6E-4DD2-A236-970C93B0BFA6,7.44,5.0,6,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+794504869729,Maine Beer a tiny beautiful something Single 16oz Craft,BEER,,biz_id_ECBA7FD8-44B2-47BB-81D8-F1034287BD49,7.44,5.0,12,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+796030114946,Kona Longboard 6pk 12oz Craft,BEER,,biz_id_A5C41D72-E66C-41C3-81F2-44DC519336F4,11.76,7.17,-11,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+796030114960,Kona Big Wave 6pk 12oz Craft,BEER,,biz_id_8BA07C55-CEC6-45BC-8E6F-9F1A570101E0,11.76,7.17,-42,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+797776188482,Glendalough 750ml Gin,LIQUOR,,biz_id_8C2AB715-8EBD-45D4-97B9-5D3DA5FB49B9,32.69,25.0,-6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+797776782338,Glendalough Irish Whiskey 750ml,LIQUOR,,biz_id_B38C10CB-A945-4CFE-A644-26472D6C7C40,59.94,50.0,-1,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+798373126020,Magic Hat #9 6pk 12oz Craft,BEER,,biz_id_6C4E726A-2F72-4D48-9593-38278EC319E9,10.69,7.5,-23,"{""department"": ""BEER"", ""vendor"": """", ""description"": ""Beer""}",high_margin
+799439682177,Glendalough Double Barrel Whiskey 750ml,LIQUOR,,biz_id_F36BE9C2-39BF-4107-919F-5C755261175D,32.69,25.0,-7,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+8032589702176,Barbera Dalba Mauro Molino,WINE,,biz_id_1289AD6F-A5EC-4B1D-86CA-45B26085EDC9,16.04,10.0,9,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+8033540100314,castello di Radda Chianti Classico,WINE,,biz_id_262FD0FB-331C-4ABC-9B29-3B01B427B461,16.04,10.0,10,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+8033540200915,Castello di Radda Chianti 750ml Import,WINE,,biz_id_E88699ED-FEC3-45F1-969C-6DA69FB4D4DA,16.04,10.0,-16,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+810879020135,Iron Side Cab Cab,WINE,,biz_id_AE7C00D8-DB86-4547-8561-6A7F9CC50ED7,16.04,11.0,19,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+810879020388,Mija Sangria Red Sparkling 750ml Domestic,WINE,,biz_id_BCEF8C7A-3BE2-421D-A7A1-7A37921A9026,9.62,6.0,19,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+810879020876,Iron Side Pinot Noir 750ml Domestic,WINE,,biz_id_881142B1-029D-4E61-B495-16F1E911A25B,21.39,13.33,10,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+810879021385,Steel Dust 50ml Vodka,LIQUOR,,biz_id_16EC9194-1229-4316-B6D8-630BFC9DF284,1.07,0.66,116,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538010122,silver 375ml 1800 Silver,LIQUOR,,biz_id_CBD45AA6-DEB4-4273-AF8B-36F7CBD4A17F,18.18,12.79,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538010832,Jose Cuervo Gold 750ml Tequila,LIQUOR,,biz_id_C2F68E20-BB48-4A83-95AC-F4404330691C,23.97,18.0,7,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+811538010856,Jose Cuervo Silver 750ml Tequila,LIQUOR,,biz_id_462B9122-9CDD-4A5A-A62D-8FB108764B17,23.97,18.0,10,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+811538010870,Silver 375ml Jose Cuervo,LIQUOR,,biz_id_A09D4478-F25C-40A0-A86B-19A9B9AC426B,12.84,8.89,7,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538010924,Gold 200ml Jose Cuervo,LIQUOR,,biz_id_88706AAB-7E91-4CDD-8954-DA63A8DB5EF1,7.49,5.19,21,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538010931,Silver 200ml jose Cuervo,LIQUOR,,biz_id_5A9C79D9-1C5D-4F44-8F14-12F7F40B9C21,7.49,5.19,16,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538010948,Jose Cuervo Gold 50ml Tequila,LIQUOR,,biz_id_C3513028-2B92-4BA9-9D92-D2C6CF3AD9B7,2.14,1.3,23,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+811538010955,Jose Cuervo Silver 50ml Tequila,LIQUOR,,biz_id_21F60F27-C016-482E-8F59-674315A50B69,2.14,1.48,42,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538010962,Jose Cuervo Golden Margarita 750ml Liqueur,LIQUOR,,biz_id_41CDDD3B-D7E6-4AE4-9495-1F8AEC9C6A91,21.79,15.99,1,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+811538010993,Classic Marg 1.75ml Jose Cuervo,LIQUOR,,biz_id_D31769DF-51B0-414F-984E-C36583F2AE4B,19.25,13.49,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538011143,Jose Cuervo Strawberry Marg 750ml Mixer,LIQUOR,,biz_id_C9149D60-D715-4A0A-9552-496391C849A0,7.48,5.0,6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+811538011211,Jose Cuervo Classic Marg 1L Mixer,LIQUOR,,biz_id_ED8E39BE-BFF9-42E4-BDBC-BE68B8B8B5BD,5.34,2.0,26,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+811538011556,Jose Cuervo Magarita Mini 4pk 750ml Liqueur,LIQUOR,,biz_id_3727B15F-1DDC-4488-A39A-A89EBDBD1E68,10.89,8.0,2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+811538019156,1800 Margarita 1800,LIQUOR,,biz_id_75F292BA-4CBF-44C5-BD33-03A4E2559B7E,23.53,16.49,4,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+811538019569,Proper Twelve Whiskey 750ml,LIQUOR,,biz_id_9B17C776-5E60-45EE-9304-AD8988ED9D55,32.69,25.0,11,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+811538019682,Irish Whiskey 375ml Proper Twelve,LIQUOR,,biz_id_163C4B3C-D259-4DAB-863A-235558635859,20.32,12.0,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+812066020294,15yr Highland Park,LIQUOR,,biz_id_95BFE133-B992-4C4A-B648-E58FFCCFBAB8,108.99,80.0,0,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",low_margin
+812066020683,Macallan 10 Years 750ml Scotch,LIQUOR,,biz_id_A7FC4B07-6582-455B-9D45-A787E2D0D1B3,51.22,37.0,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+812066020690,Macallan 15 Years 750ml Scotch,LIQUOR,,biz_id_22728559-7BF1-482B-9642-0B837E60C41C,108.99,80.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+812066021598,Macallan 12 Years Double 750ml Scotch,LIQUOR,,biz_id_BC6BE9AE-18E0-438F-B03E-EE065D06F7AA,65.4,48.0,-2,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+812459012004,Calumet Bourbon,LIQUOR,,biz_id_46E8C933-0A05-48CD-8F75-398B23A7683A,51.35,35.0,6,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+813219020048,Teeling 750ml Irish Whiskey,LIQUOR,,biz_id_167632B1-EBAC-4115-B5F7-C9B88E907061,37.44,25.0,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+814794010455,Gozio Amaretto Liqueur 50ml,LIQUOR,,biz_id_0C3AB286-C538-403C-AEBE-49F6CB26B0D9,2.14,1.5,-3,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+817625010143,Pinot Noir Joel Gott,WINE,,biz_id_1FAA1D43-F686-4534-A3F8-83B41D0A6082,18.18,12.0,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+817904007949,Hazy IPA Elysian,BEER,,biz_id_412E6C65-C65E-490E-BE30-2306EA6F138E,12.83,8.86,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+819578010478,Road 2 Run Two Roads,BEER,,biz_id_BD55B2C4-4CCD-4BDF-A16E-F090942C7569,12.83,8.67,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+819913011429,Ph Card Virg Jl,TOBACCO,,biz_id_E8FFEED9-02FC-4483-95C4-B3D5F4E6DF80,21.39,10.0,9,"{""department"": ""TOBACCO"", ""vendor"": ""NONE"", ""description"": ""Tobacco""}",high_margin
+819913012594,v o j l,Soda,,biz_id_20F9D16A-714B-4A2F-82FA-1C070BF1D9E5,21.39,12.0,4,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+831869000012,Sauv Blanc The Crossings,WINE,,biz_id_B1554164-68AF-41AE-B1D8-2A7943A5FCCB,13.9,8.0,52,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+833202002509,Rose all Day 750ml Import,WINE,,biz_id_04E3B6EF-5C56-42AA-BCB0-43F857B4FAE4,12.83,8.0,32,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+833302005158,Gunsight Rock Cab Sav 750ml Domestic,WINE,,biz_id_A9253B4F-C096-4612-80E5-D32F99DCAC6E,16.04,11.0,9,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+835229010611,Absolut Strawberry Juice vodka Absolut,LIQUOR,,biz_id_96D6CC4C-432B-4525-B626-BE3856497D46,21.39,15.0,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+835229010628,Absolut Apple Juice vodka Absolut,LIQUOR,,biz_id_00C22C49-4199-4F4A-888A-062DCECC1E39,21.39,15.0,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+839543001379,Cielo Pinot Grigio 750ml Import,WINE,,biz_id_7E16DA51-7385-4820-AC91-A4434E09B11E,8.55,5.0,-3,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+839543001881,Cielo Pinot Noir 1.5L Import,WINE,,biz_id_FE13E5F7-E0F6-4D5B-B572-74B8E7438F34,10.69,6.66,-3,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+847159001812,Harken Chard 750ml Domestic,WINE,,biz_id_98B3A28D-D26E-4023-A2B3-86AD2F18E82C,13.9,8.5,29,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+847159002079,Pinot Noir Harken,WINE,,biz_id_01827AF8-D89F-4A9C-95D9-83E282FE4146,13.9,8.66,10,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+850001901116,Piggy Back 6yr Whistlepig,LIQUOR,,biz_id_887BCD0C-D87B-454E-835A-86FA4C0CAC6C,56.7,39.0,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+850113006235,Zero Gravity Madonna 4 x 16oz,BEER,,biz_id_985EC8B7-8E37-4E4E-A80E-A0671CF91287,15.18,10.33,1,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+851718000048,Mark West Pinot Noir 750ml Domestic,WINE,,biz_id_B5918E43-6C16-4FE9-BB2C-DE5448305738,11.76,8.0,-21,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+852411007563,Lifevine Cab Sauv Lifevine,WINE,,biz_id_E71957A9-A171-4DFD-97D4-92CA9F88CD4C,16.04,10.67,9,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+852411007570,Chard Life Vine,WINE,,biz_id_237340AB-D823-4E07-BB66-1201211CC632,16.04,10.67,1,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+852735003029,Barr Hill Gin 750ml,LIQUOR,,biz_id_0A5343CF-FCC2-4019-8423-475C19A6C121,42.79,27.43,2,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+853086008008,Fit Vine Cabarnet Sav,WINE,,biz_id_DD56E338-D3A7-4A90-A913-000DA473E1A3,16.04,11.0,-5,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+853086008022,Fit Vine Pinot Noir 750ml Domestic,WINE,,biz_id_4391BFAB-35DC-4218-BB95-CBFF07411715,18.18,11.33,-7,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+853086008053,Fitvine Chard 750ml Domestic,WINE,,biz_id_718D6E48-D14C-4A0C-8023-37AE96245871,16.04,10.67,1,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+853086008077,Pinot Grigio Fit Vine,WINE,,biz_id_D870CF57-CA2C-410B-9487-6688A2A82C92,16.04,10.67,7,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+853086008091,Fitvine Rose Fitvine,WINE,,biz_id_5876FF75-CAF5-4A1A-BCB2-DC916667A169,17.11,12.0,10,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+853239007018,Mast Landing DDH Tell Tale 4 x 16oz,BEER,,biz_id_09C70A1E-4158-40E1-8385-EFC6601EC909,16.04,11.0,5,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+853239007049,Dash 4pk Mast Landing,BEER,,biz_id_94C0AC02-31E4-4465-A815-588BA2AB4BEC,16.04,10.86,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+853239007452,Lights 4pk 16oz Mast Landing,BEER,,biz_id_980F0415-D5E0-4669-BD17-D7D949B881B5,16.34,11.86,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+853239007780,Mast Landing Sports & Leisure 4 x 16oz,BEER,,biz_id_F518FE19-532F-46E8-966E-3F609E31874B,18.18,12.33,5,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+853901006226,2x4 Dipa Melvin,BEER,,biz_id_C5FF4CA9-3404-4105-805C-04A5640E10E2,17.11,11.83,-1,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+854396005220,Prairie Bourbon High West,LIQUOR,,biz_id_358D341D-A0D5-4D83-BC98-735D74BD9425,42.79,25.33,0,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+854396005251,High West Bourbon 375ml,LIQUOR,,biz_id_90457212-F7F1-4E65-B2B4-171EDE49679D,21.39,13.33,4,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+854924003773,Riverwalk IPA IPA 4pk,BEER,,biz_id_8B66A97F-3119-425A-9FED-C48609349002,12.83,9.2,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+855067006256,Stormalong Mass Appeal 4 x 16oz,BEER,,biz_id_DD543F03-04FF-4AC0-A194-F250C443C52F,11.76,8.0,2,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+855067006270,Stormalong Red Skies 4 x 16oz,BEER,,biz_id_137C0FD4-B414-42F3-9CAE-878D6CA6B66F,12.83,8.33,4,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+855165005076,Mieomi Pinot Noir,WINE,,biz_id_AAED6C97-F32B-4124-9A37-69F64062B18F,23.53,16.0,15,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+855775006531,Double Thunder Bent Water,BEER,,biz_id_D3B06CBA-3559-42B4-9C95-2D664EB77EEA,17.11,11.25,-9,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+855775006630,Goat Bent Water,BEER,,biz_id_8618A17B-A765-4977-923A-D83F03F2E1CE,13.04,9.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+855775006647,Czarface Bent Water,BEER,,biz_id_44CBA62A-88AE-42B8-B9BA-C1E0EC9E8725,16.04,11.2,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+856011004151,Ole Smoky 50ml Moonshine,LIQUOR,854628006056,,3.21,2.0,-68,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}","duplicate_sku,high_margin"
+856011004151,Ole Smoky 50ml Moonshine,LIQUOR,856011004182,,3.21,2.0,-68,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}","duplicate_sku,high_margin"
+856544007803,Lord Hobo NE Sampler 12 x 12oz,BEER,,biz_id_2B97950E-9A41-4F40-AD29-A886065104BE,20.96,15.0,9,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+856544007834,Lord Hobo Hobo Life 12 x 12oz,BEER,,biz_id_8905AB26-C00F-4565-BE54-F9B75477C922,20.96,15.0,1,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+856544007957,Lord Hobo 617 Title Town 12 x 12oz C,BEER,,biz_id_4A4A60F7-37F7-48CD-A414-7C9FAA070D3C,20.7,15.0,-1,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+856724006015,Anejo Casamigos,LIQUOR,,biz_id_1E129EBD-340F-444C-9F64-04A74DE5F594,56.7,36.0,5,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+857660004622,Luna Di Luna 1.5ml Pinot Grigio,WINE,,biz_id_C61C0DBC-5173-4E01-8268-7545A4D9297D,13.9,8.33,13,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+857744001219,Joseph Carr Chard 750ml Domestic,WINE,,biz_id_F7060C7B-9582-40E6-8D77-9655CE58CF72,17.11,11.0,49,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+857744001318,Josh Cab Sav 750ml Domestic,WINE,,biz_id_2D51285D-A846-46EA-A623-8E37F82DE537,16.04,10.0,-12,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+857744001325,Josh Cellar Chard 750ml Domestic,WINE,,biz_id_A7129769-DB84-4A09-BF20-32076C92B963,13.07,9.33,-22,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",low_margin
+857744011157,Josh Merlot 750ml Domestic,WINE,,biz_id_0A3AF871-ED4A-4609-883A-60A5EEC97BB9,16.04,10.0,17,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+857744099001,Joseph Carr Cab Sav 750ml Domestic,WINE,,biz_id_CAC658FF-9A93-4FD9-AEB3-06A5021D9055,18.18,12.0,12,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+858612003502,Blueberry Down East,BEER,,biz_id_FF18D762-5DEC-4325-8142-8FCF61E2B971,14.16,10.0,-5,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",low_margin
+858749003093,Poggio Chianti Argentale,WINE,,biz_id_ED9B0D08-9A5D-44C3-816C-B0F3F78AEDE6,11.76,7.0,9,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+859199003077,Citizen Cider Unified 4 x 16oz,BEER,859199003138,,12.83,8.92,4,"{""department"": ""BEER"", ""vendor"": ""Atlantic"", ""description"": ""Beer""}",high_margin
+859660007061,1 North haze Ipa 1 North,BEER,,biz_id_54245895-433E-44D8-B263-B5FAA5DE06CD,14.97,10.5,6,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+859708002171,Destihl Synchopathic 6 x 12oz,BEER,,biz_id_DD815DA5-B28F-4D39-A4C4-D30505D967DA,13.9,9.0,3,"{""department"": ""BEER"", ""vendor"": ""6172944233"", ""description"": ""Beer""}",high_margin
+859708002553,Extended IPA Destihl,BEER,,biz_id_9923219D-EB57-420F-B991-3C133B594EF5,16.04,11.19,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+860000023900,Mount Water Liquid Death,Soda,,biz_id_FA370930-19C2-4F64-BAAA-63789485F0A8,1.6,1.0,11,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+860265002405,Skrewball Skrewball,LIQUOR,,biz_id_22C589CE-C9C3-4084-82A6-F579DFE24B57,32.09,20.0,30,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+860265002429,Skrewball 50ml Peanut Butter whiskey,LIQUOR,,biz_id_555BF608-BA42-4384-B90E-EC3D0CF7480E,3.2,2.0,106,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+860367000729,Juice Bomb Sloop Brewing,BEER,,biz_id_05F6549B-F819-4837-95E2-A1CDDEF192AB,13.9,9.43,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+860438001693,Mango Willies,BEER,,biz_id_3E5063E6-0B2C-42E6-A7DC-11B6DD031F44,11.76,7.33,-3,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+862816000250,Kolsch Devil's Purse,BEER,,biz_id_5C6B6976-2ED8-4753-B4C9-123A59E2507C,13.9,9.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+866764000171,Moose Juice North Ale,BEER,,biz_id_8C65F5C8-3008-40AD-96DE-F1A34E0A3D28,12.83,8.87,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+867636000015,Fisher Island lemonade,LIQUOR,,biz_id_237A5525-2631-4A18-AAFC-9DBE4C63A303,17.11,12.0,7,"{""department"": ""LIQUOR"", ""vendor"": ""NONE"", ""description"": ""Liquor""}",high_margin
+868956000402,Imperial IPA Laser Cat,BEER,,biz_id_FF8B76A3-174C-434D-878E-27F0ED8AFC6A,16.04,11.17,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+868956000457,Luminary MedUsa Brewing,BEER,,biz_id_7713493C-1B53-4066-953E-28971B279130,16.04,11.0,0,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+869037000380,Babe Rose Babe,WINE,,biz_id_BEFD66FA-2182-4CC6-95E3-86D106F09287,12.83,8.67,16,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+876641900258,Gabriele Vino Sweet Red 750ml Import,WINE,,biz_id_D7196D25-F31B-4A46-BF3F-0C43CF11CEA5,10.69,6.0,8,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+877397000407,Napa Cab Oberon,WINE,,biz_id_5B782569-BCC8-4169-836B-DAFDC90A1ECD,21.39,14.67,14,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+890355001025,Rum Chata Liqueur 750ml Import,LIQUOR,,biz_id_38BCAE31-D9CE-4FF0-9C20-9ED1FB25BB4A,25.06,18.0,-6,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",low_margin
+892480001116,Amber 4pk Cape Ann,BEER,,biz_id_A7CFE6EE-64BE-40FB-BA53-7F89B5CBECBA,10.69,7.0,1,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+892480100017,Easy IPA Cape Ann Brew,BEER,,biz_id_B4E69495-E9A7-4E74-8725-7074CF28466A,10.69,7.0,1,"{""department"": ""BEER"", ""vendor"": ""NONE"", ""description"": ""Beer""}",high_margin
+894655001099,90+ Pinot Noir Monterey 750ml Domestic,WINE,,biz_id_ECA17C5D-F673-4A77-9815-8503514BD1A4,10.69,6.66,-3,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+894655001679,sparkling Rose 90+,WINE,,biz_id_4AB612FD-75C3-4841-AF33-F73416778413,10.69,6.16,11,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+896599002101,Cab Bourbon Barrel Layer Cake,WINE,,biz_id_B6B1A58F-B645-4492-86B3-AFCA96F16A72,16.04,11.0,5,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+897941000271,CrossBarn Pinot Noir,WINE,,biz_id_E174B86A-BC26-4B7B-BE60-5B688DC8DD94,32.09,20.0,10,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+898195001014,4pk Tonic Water Fever Tree,Soda,,biz_id_856ED68D-609C-4861-8DB9-8FE2BAD2F99E,7.48,4.28,4,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+898195001656,Elder Flower Tonic Water Fever Tree,Soda,,biz_id_D367CD2E-E8E3-4642-8B2C-DCBC043CE195,8.01,4.9,4,"{""department"": ""Soda"", ""vendor"": ""NONE"", ""description"": ""Soda""}",high_margin
+898406001437,Powell & Mahoney Peach Bellini 750ml Mixer,LIQUOR,,biz_id_0943ED7D-020F-4434-BA8C-C67D6F7BF980,7.48,5.0,5,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+898756001606,Exitus Exitus,WINE,,biz_id_CF4A5504-C164-4BC4-8D03-7D5CDD036E63,18.18,12.0,6,"{""department"": ""WINE"", ""vendor"": ""NONE"", ""description"": ""Wine""}",high_margin
+899939002472,2 Copas 750ml Import,WINE,,biz_id_EE150E71-2E89-49F3-9B26-81E7BB260C2C,9.62,6.0,19,"{""department"": ""WINE"", ""vendor"": """", ""description"": ""Wine""}",high_margin
+ICE 5lb,ICE 5lb,LIQUOR,,biz_id_3A09D545-A2F9-4325-A048-AD747EDDE0A0,1.87,0.5,817,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
+ICEBIGBAG,ICE 10lb,LIQUOR,,biz_id_A48A4A0C-6D43-40DF-AB1F-07BEA72ABDEC,2.94,1.0,923,"{""department"": ""LIQUOR"", ""vendor"": """", ""description"": ""Liquor""}",high_margin
