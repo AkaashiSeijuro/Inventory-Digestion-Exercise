@@ -1,104 +1,67 @@
 # Inventory Digestion Exercise
 
-This project processes inventory data and stores it through an API.
+## Summary
 
-It has two main parts:
+This project implements an end-to-end inventory data pipeline:
 
-- **inventory_api:** Ruby on Rails API (stores and aggregates data using MongoDB)
-- **inventory_exercise:** Python script (extracts, transforms, and sends data)
+- A Python script extracts and transforms inventory data from an S3 source  
+- A Ruby on Rails API stores the processed data in MongoDB using Mongoid  
+- The API returns batch-level summaries such as average price and total quantity  
 
----
-
-## Overview of Workflow
-
-1. The Python script downloads inventory data from an S3 source
-2. The data is cleaned and transformed
-3. The transformed data can:
-   - be saved as a CSV file
-   - be sent to the API
-4. The API stores the data in MongoDB
-5. The API can return summary statistics for each upload batch
-
----
-
-## Setup Instructions
+## How to Run
 
 ### 1. Start MongoDB
 
-Make sure MongoDB is running locally before starting the API.
+Make sure MongoDB is installed and running locally.
 
----
+```bash
+mongod --dbpath C:\data\db
+```
 
 ### 2. Start the API
 
-Navigate into the `inventory_api` folder and start the Rails server.
+Navigate to the Rails project folder:
 
-Once running, the API will be available at:
+```bash
+cd inventory_api
+```
 
+Start the Rails server:
+
+```bash
+ruby bin/rails server
+```
+
+The API will be available at:  
 http://localhost:3000
-
----
 
 ### 3. Run the Python Script
 
-Navigate into the `inventory_exercise` folder.
+Navigate to the Python folder:
 
-The script supports three actions:
+```bash
+cd inventory_exercise
+```
 
-#### Generate CSV
-Processes the raw data and creates a CSV file with the transformed results.
+Generate CSV:
 
-#### Upload Data
-Sends the processed data to the API, which stores it in MongoDB.
+```bash
+python integration-exercise.py generate_csv
+```
 
-#### List Uploads
-Retrieves batch summaries from the API, including:
-- number of records
-- average price
-- total quantity
+Upload data to the API:
 
----
+```bash
+python integration-exercise.py upload
+```
 
-## API Endpoints
+List uploaded batches:
 
-### POST /inventory_uploads.json
-
-Accepts a JSON array of inventory records and stores them as a batch.
-
-Returns:
-- batch_id
-- number_of_units
-
----
-
-### GET /inventory_uploads.json
-
-Returns a list of uploaded batches with:
-- batch_id
-- number_of_units
-- average_price
-- total_quantity
-
----
-
-## Key Implementation Details
-
-### Python
-- Uses only built-in libraries (no pandas or numpy)
-- Parses CSV data using `csv.DictReader`
-- Applies pricing rules based on margin
-- Validates UPC values
-- Generates tags and structured properties
-
-### Rails API
-- Uses MongoDB with Mongoid (no ActiveRecord)
-- Stores each upload as a batch
-- Uses aggregation to compute batch statistics efficiently
-
----
+```bash
+python integration-exercise.py list_uploads
+```
 
 ## Notes
 
-- MongoDB must be running before using the API
-- The API must be running before using the upload or listing features
-- The Python script handles both file generation and API interaction
+- MongoDB must be running before starting the API  
+- The API must be running before uploading or listing data  
