@@ -1,24 +1,20 @@
-# README
+# Inventory Digestion Exercise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Structure
 
-Things you may want to cover:
+- inventory_api → Rails API (MongoDB + Mongoid)
+- inventory_exercise → Python ETL script
 
-* Ruby version
+## Run
 
-* System dependencies
+### Start MongoDB
 
-* Configuration
+### Start Rails
+cd inventory_api  
+ruby bin/rails server  
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Run Python
+cd inventory_exercise  
+python integration-exercise.py generate_csv  
+python integration-exercise.py upload  
+python integration-exercise.py list_uploads  
