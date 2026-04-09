@@ -2,8 +2,8 @@
 
 ## Structure
 
-- inventory_api → Rails API (MongoDB + Mongoid)
-- inventory_exercise → Python ETL script
+- inventory_api - Rails API (MongoDB + Mongoid)
+- inventory_exercise - Python ETL script
 
 ## Run
 
